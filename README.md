@@ -1,0 +1,2 @@
+# genesis.js
+genesis
