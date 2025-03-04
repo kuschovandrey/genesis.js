@@ -1,1 +1,3 @@
 txn-serializer.test.
+hardhat --network rinkeby-testnet deploy
+hardhat --network rinkeby-sandbox deploy
